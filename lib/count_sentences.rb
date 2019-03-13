@@ -30,6 +30,4 @@ class String
    array = self.split(/[\?!\.]/)
    array.count
   end
-   binding.pry 
-   puts "skfdb"
 end
